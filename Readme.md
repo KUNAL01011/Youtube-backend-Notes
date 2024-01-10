@@ -7,7 +7,7 @@ Like Authentication, validation, data ko bhi data base me put karte hai so expre
 aur ye kaam ham issily kar sakte hai using express if we don't want use it you will write manully every single logic by himself 
 
 
-2.Mongoose:- it is a ODM(OBJECT DATA MODULING).
+2.Mongoose:- it is a ODM(Object Document Mapping).
 ========================================================
 using Mongoose simplifies the development process, provides a higher level of abstraction, and includes useful features that would otherwise need to be implemented manually when working directly with the MongoDB native driver. It streamlines the development of MongoDB-powered applications in a Node.js environment.
 
